@@ -37,7 +37,7 @@ Follow these steps to set up the Sentiment Analysis Chatbot on your local machin
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-chatbot.git
+    git clone https://github.com/ElectroPerf/sentiment-analysis-chatbot.git
     cd sentiment-analysis-chatbot
     ```
 
