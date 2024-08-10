@@ -28,7 +28,7 @@ The Sentiment Analysis Chatbot is a friendly and intuitive chatbot that helps yo
 
 Here's a quick look at the Sentiment Analysis Chatbot in action:
 
-![Sentiment Analysis Chatbot](demo.gif)
+https://github.com/user-attachments/assets/1ff993f5-69f9-4238-a09d-19141cf235c4
 
 ## Installation
 
